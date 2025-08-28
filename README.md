@@ -42,7 +42,7 @@
 ---
 
 ## 🛠️ Tech Stack
-- **Languages:** C, C++, Python  
+- **Languages:** C, C++
 - **Frontend:** HTML, CSS, JavaScript,Bootstrap, TailwindCSS, ReactJS, Redux  
 - **Backend:** NodeJS, ExpressJS  
 - **Databases:** MongoDB, MySQL  
